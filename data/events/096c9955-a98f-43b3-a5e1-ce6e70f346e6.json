@@ -1,0 +1,17 @@
+{
+  "audiovisual_files": {
+    "74ebb9e1-38ea-4355-b947-8a8638490448": {
+      "label": "Mel Gussow interview with Neil Gaiman",
+      "is_offline": false,
+      "file_type": "Audio",
+      "file_url": "https://norman.hrc.utexas.edu/CDMmedia/p15878coll83/740.mp3",
+      "duration": 1262
+    }
+  },
+  "auto_generate_web_page": true,
+  "label": "Mel Gussow interview with Neil Gaiman",
+  "created_at": "2025-07-18T15:39:53.461Z",
+  "created_by": "juliaokeefe",
+  "updated_at": "2025-07-18T15:39:53.461Z",
+  "updated_by": "juliaokeefe"
+}
