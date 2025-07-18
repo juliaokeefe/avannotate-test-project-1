@@ -24,6 +24,50 @@
         }
       ],
       "uuid": "ffce012f-1573-41c7-abd7-e2542354d961"
+    },
+    {
+      "start_time": 21355,
+      "end_time": 25626,
+      "annotation": [
+        {
+          "type": "paragraph",
+          "children": [
+            {
+              "text": "Add "
+            },
+            {
+              "text": "a transcript",
+              "bold": true,
+              "color": "#a51d93"
+            },
+            {
+              "text": " or "
+            },
+            {
+              "text": "a description",
+              "bold": true
+            },
+            {
+              "text": " of this sound bite."
+            }
+          ]
+        }
+      ],
+      "tags": [
+        {
+          "tag": "Noise",
+          "category": "Environment"
+        },
+        {
+          "tag": "Person 1",
+          "category": "Interviewee"
+        },
+        {
+          "tag": "Person 3",
+          "category": "Interviewer"
+        }
+      ],
+      "uuid": "dc89a7e1-803e-4385-950c-96cc761cd668"
     }
   ],
   "set": "Default",
